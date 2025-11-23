@@ -31,3 +31,12 @@ JavaScript
 Canvas (for the wheel)
 CSS transitions + transforms
 Confetti effect
+
+How to Run the Project:
+Clone or download the repo:
+
+git clone https://github.com/njatta1/Mental-health-tracker.git
+
+Open index.html in your browser.
+
+No frameworks or installations required.
